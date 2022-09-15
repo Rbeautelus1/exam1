@@ -1,0 +1,9 @@
+0001    Carlos-Theran	70.5    45.60   90.5
+0002    Andrea-Guzman	80.3    50      70
+0003    Michael-Torres	15.55   14.7    60
+0004    Daisuy-Dalton	6.8     50.89   54.4
+0005    Amara-Winters 	76.9    89.12   90
+0006    Lee-Chambers 	45.67   70.4    88
+0007    Dana-Lozano 	47.90   20.15   93
+0008    Gage-Lindsay 	98.5    78      21
+0009    Jasmine-Osborn 	73      90      87
